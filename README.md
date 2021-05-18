@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite" title="Ignite" src=".github/imagem.png" />
+    <img alt="Ignite" title="Ignite" src=".github/image.png" />
 </h1>
 
 <h2 align="center">Refactoring de classes e typescript</h2>
