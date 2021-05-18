@@ -52,10 +52,10 @@ Configurando esse setup, você deve ser capaz de trabalhar normalmente com o Typ
 
 ## 📦 Funcionalidades
 
-- [x] Adicionar prato
-- [x] Alterar detalhe do prato
-- [x] Marcar/Desmarcar como disponível
-- [x] Deletar prato
+- Adicionar prato
+- Alterar detalhe do prato
+- Marcar/Desmarcar como disponível
+- Deletar prato
 
 
 ## 📦 Como executar
